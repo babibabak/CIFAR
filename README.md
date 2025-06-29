@@ -73,6 +73,3 @@ jupyter notebook CIFAR_10.ipynb
 - Increase the number of epochs or trials for hyperparameter tuning to enhance performance.
 - Add dropout or regularization to prevent overfitting.
 - Visualize confusion matrices or class-specific performance metrics for deeper insights.
-
-License
-MIT License
